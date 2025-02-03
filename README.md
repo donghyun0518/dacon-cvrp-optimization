@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">🎅🏻 선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작</h1>
+<h1 style="text-align: center;">🎅🏻 선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작전</h1>
 <hr>
 <p style="text-align: center;">
     <a href="https://github.com/donghyun0518/final-project-endoscope/blob/main/%EB%82%B4%EC%8B%9C%EA%B2%BD%EB%AA%A8%EB%8D%B8pdf.pdf" target="_blank">
