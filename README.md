@@ -12,6 +12,7 @@
 - **기간** : 2024.12.03 ~ 2025.01.31 (약 2달간)
 - **팀 구성** : 5인
 - **성과** : Private 9th (상위 4%)
+- [**데이콘 결과 제출 게시글**](https://dacon.io/competitions/official/236437/codeshare/12186?page=1&dtype=recent)
 
 ## ⚙️ 주요 수행 과정
 **1. **문제 정의(제약 조건)****
