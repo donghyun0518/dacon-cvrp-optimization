@@ -6,6 +6,8 @@
     </a>
 </p>
 
+[[프로젝트 발표 자료](https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/%EC%84%A0%EB%AC%BC_%EB%B0%B0%EC%86%A1_%EA%B2%BD%EB%A1%9C_%EC%B5%9C%EC%A0%81%ED%99%94_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf)]
+
 ## 🔍 프로젝트 개요
 - **목적** : 한 번에 운반할 수 있는 선물의 개수가 제한되어 있는 효율적인 경로 찾기
 - **주제** : 산타의 선물 배송을 위한 경로 최적화 알고리즘 개발
