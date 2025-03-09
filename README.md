@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">🎅🏻 선물 배송 경로 최적화 경진대회: 산타와 루돌프의 워라벨 사수작전</h1>
 <hr>
-<img src="https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/%EC%82%B0%ED%83%80%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
+<img src="https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/santa_certificate.pdf" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
 <p style="text-align: center;">
     <a href="https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/%EC%84%A0%EB%AC%BC_%EB%B0%B0%EC%86%A1_%EA%B2%BD%EB%A1%9C_%EC%B5%9C%EC%A0%81%ED%99%94_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C.pdf" target="_blank">
         <img src="https://github.com/donghyun0518/dacon-cvrp-optimization/blob/main/%EC%82%B0%ED%83%80%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
